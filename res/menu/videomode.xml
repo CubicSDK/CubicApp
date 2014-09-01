@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/videomodegroup" android:checkableBehavior="single">
+        <item android:id="@+id/videomode_item_fullhd" android:title="@string/videomode_item_fullhd"></item>
+        <item android:id="@+id/videomode_item_youtube" android:title="@string/videomode_item_youtube"></item>
+        <item android:id="@+id/videomode_item_instagram" android:title="@string/videomode_item_instagram"></item>        
+    </group>
+</menu>

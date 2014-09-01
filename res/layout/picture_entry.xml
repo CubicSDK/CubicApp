@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.altek.cubicapp.download.ThumbnailSlotView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <ImageView
+        android:id="@+id/album_thumbnail"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true" >
+    </ImageView>
+    <CheckBox 
+        android:id="@+id/itemCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+	    android:scaleX="2.00"
+    	android:scaleY="2.00"        
+    	android:visibility="invisible"
+         />
+
+    <ImageView
+        android:id="@+id/image_download"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:scaleType="fitCenter"
+        android:src="@drawable/lcd_ic_downloaded"
+        android:visibility="invisible" />
+    
+    <ImageView
+        android:id="@+id/imageVideoFile"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/lcd_ic_videofile"
+        android:visibility="invisible"
+        android:layout_centerInParent="true" />
+    
+</com.altek.cubicapp.download.ThumbnailSlotView>

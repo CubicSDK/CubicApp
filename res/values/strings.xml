@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+   <!-- string for main activity -->
+   <string name="ssid_scan_list">Select the Cubic camera to connect or rescan.</string>
+   <string name="ssid_scan_again">Rescan Cubic camera</string>
+   <string name="str_no_storage">The SD card can not be written.</string>
+   <string name="str_review">Playback</string>
+   <!--  string for live view  -->
+   <string name="Capture">Capturing…</string>
+   <string name="RemoteControl">Cubic Camera App</string>
+   <string name="SetupMenu">Settings menu</string>
+   <string name="setting_item_format">Format</string>
+   <string name="setting_item_copy">Copy</string>
+   <string name="setting_item_autopoweroff">Auto power off</string>
+   <string name="autopowerofftime_item_1min">1 min</string>
+   <string name="autopowerofftime_item_5min">5 min</string>
+   <string name="autopowerofftime_item_off">Off</string>
+   <string name="setting_item_MarcoMode">Macro mode</string>
+   <string name="Processing">Processing…</string>
+   <string name="ConnectAltekDevice">Search for Cubic camera</string>
+   <string name="PleaseWait">Please wait…</string>
+   <string name="setting_item_videomode">Video mode</string>
+   <string name="setting_item_sound">Beep of camera</string>
+   <string name="VideoDownload">Video is downloading…</string>
+   <string name="APPProcessing">Processing…</string>
+   <!-- string name="VideoMode">錄影模式</string -->
+   <string name="videomode_item_fullhd">Full HD</string>
+   <string name="videomode_item_youtube">YouTube</string>
+   <string name="videomode_item_instagram">Instagram</string>
+   <string name="formatMessage">Delete all images and files from SD card?</string>
+   <string name="Camera_Beep_Sound">Beep of camera</string>
+   <string name="setting_item_touchshot">Touch shutter</string>
+   <string name="alter_disconnect">Cubic camera disconnected. Would you like to quit?</string>
+   <string name="setting_item_clippermode">Clipper mode</string>
+   <string name="alter_no_sdcard">Please insert the SD card.</string>
+   <string name="alter_store_full">SD card is full. Please insert a new one.</string>
+   <string name="alter_FWVersionOlder">FW version is too old. Please update it.</string>
+   <string name="alter_WiFiDisable">WiFi dosen’t turn on. Would you turn it on?</string>
+   <string name="alter_NoDSCFound">No camera is found. Turn on camera and rescan.</string>
+   <string name="alter_AutoPowerOffWarning">Cubic camera will turn off.</string>
+   <string name="alter_BatteryEmptyWarning">Camera battery is insufficient. Please charge the battery.</string>   
+   <string name="alter_CardErrWarning">SD Card Error.Please format or change SD Card.</string>
+   <string name="alter_LensErrWarning">Lens Error.</string>
+   <string name="alter_TemperatureErrWarning">Camera High Temperature Error.</string>                   
+   <!-- download -->
+   <string name="str_cancel">Exit</string>
+   <string name="str_download">Download</string>
+   <string name="str_no_picture">No image.</string>
+   <string name="str_download_msg">File is downloading. Please wait.</string>
+   <string name="str_download_file">Download file :</string>
+   <string name="str_download_estimate">Estimate remaining time :</string>
+   <!--  for about -->
+   <string name="str_about">About</string>
+   <string name="str_app_version_title">App version :</string>
+   <string name="str_frm_ver_title">FW version :</string>
+   <string name="alter_BackKEYWarning">App is processing. Would you like to quit?</string>
+   <string name="Yes">Yes</string>
+   <string name="No">No</string>
+   <string name="alter_PTPIP_Packet_Error">Cubic camera disconnected. Would you like to quit?</string>
+   <string name="alter_memory_full">Internal memory is full. Please insert the SD card.</string>
+</resources>

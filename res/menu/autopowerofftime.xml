@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/autopowerofftimegroup" android:checkableBehavior="single">
+        <item android:id="@+id/autopowerofftime_item_2" android:title="@string/autopowerofftime_item_1min"></item>
+        <item android:id="@+id/autopowerofftime_item_10" android:title="@string/autopowerofftime_item_5min"></item>
+        <item android:id="@+id/autopowerofftime_item_off" android:title="@string/autopowerofftime_item_off"></item>        
+    </group>   
+</menu>

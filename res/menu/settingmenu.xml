@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/settinggroup" android:checkableBehavior="single">
+        <item android:id="@+id/setting_item_copy" android:title="@string/setting_item_copy" android:visible="false"></item> 
+        <item android:id="@+id/setting_item_videomode" android:title="@string/setting_item_videomode" android:visible="false" android:checkable="false"></item>                
+        <item android:id="@+id/setting_item_TouchShot" android:title="@string/setting_item_touchshot" android:checkable="true"></item>
+        <item android:id="@+id/setting_item_MarcoMode" android:title="@string/setting_item_MarcoMode" android:visible="false" android:checkable="true"></item>        
+        <item android:id="@+id/setting_item_clippermode" android:title="@string/setting_item_clippermode" android:checkable="true" android:visible="false"></item>                
+        <item android:id="@+id/setting_item_sound" android:title="@string/setting_item_sound" android:checkable="true"></item>
+        <item android:id="@+id/setting_item_autopoweroff" android:title="@string/setting_item_autopoweroff" android:visible="false" android:checkable="false"></item>                
+        <item android:id="@+id/setting_item_format" android:title="@string/setting_item_format" android:checkable="false"></item>
+        <item android:id="@+id/setting_item_about" android:title="@string/str_about" android:checkable="false"></item>
+
+    </group>
+</menu>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+   <!-- string for main activity -->
+   <string name="ssid_scan_list">请选择欲联机的Cubic相机或重新搜寻。</string>
+   <string name="ssid_scan_again">重新搜寻Cubic相机</string>
+   <string name="str_no_storage">记忆卡无法写入。</string>
+   <string name="str_review">检视相片</string>
+   <!--  string for live view  -->
+   <string name="Capture">拍照中…</string>
+   <string name="RemoteControl">Cubic相机应用程序</string>
+   <string name="SetupMenu">设置菜单</string>
+   <string name="setting_item_format">相机记忆体格式化</string>
+   <string name="setting_item_copy">复制档案</string>
+   <string name="setting_item_autopoweroff">自动关闭电源</string>
+   <string name="autopowerofftime_item_1min">1分钟</string>
+   <string name="autopowerofftime_item_5min">5分钟</string>
+   <string name="autopowerofftime_item_off">关闭</string>
+   <string name="setting_item_MarcoMode">近拍模式</string>
+   <string name="Processing">处理中…</string>
+   <string name="ConnectAltekDevice">搜寻Cubic相机</string>
+   <string name="PleaseWait">请稍候…</string>
+   <string name="setting_item_videomode">录像模式</string>
+   <string name="setting_item_sound">相机声音开关</string>
+   <string name="VideoDownload">影片下载…</string>
+   <string name="APPProcessing">处理中…</string>
+   <!-- string name="VideoMode">錄影模式</string -->
+   <string name="videomode_item_fullhd">Full HD</string>
+   <string name="videomode_item_youtube">YouTube</string>
+   <string name="videomode_item_instagram">Instagram</string>
+   <string name="formatMessage">是否确定要删除所有档案及影像?</string>
+   <string name="Camera_Beep_Sound">相机音效开关</string>
+   <string name="setting_item_touchshot">触控拍摄</string>
+   <string name="alter_disconnect">Cubic相机已离线，是否关闭应用程序?</string>
+   <string name="setting_item_clippermode">Clipper mode</string>
+   <string name="alter_no_sdcard">请插入记忆卡。</string>
+   <string name="alter_store_full">Cubic相机记忆卡已满，请更换记忆卡。</string>
+   <string name="alter_FWVersionOlder">韧体版本太旧，请更新。</string>
+   <string name="alter_WiFiDisable">WiFi尚未开启，要开启WiFi吗?</string>
+   <string name="alter_NoDSCFound">未搜寻到Cubic相机，请开启相机电源。</string>
+   <string name="alter_AutoPowerOffWarning">Cubic相机即将自动关闭。</string>
+   <string name="alter_BatteryEmptyWarning">Cubic相机电力不足，请尽快充电。</string> 
+   <string name="alter_CardErrWarning">记忆卡錯誤。请格式化或更换新卡。</string>
+   <string name="alter_LensErrWarning">镜头错误。</string>
+   <string name="alter_TemperatureErrWarning">相机高温。</string>          
+   <!-- download -->
+   <string name="str_cancel">离开</string>
+   <string name="str_download">下载影像</string>
+   <string name="str_no_picture">没有影像</string>
+   <string name="str_download_msg">档案下载中，请稍候 …</string>
+   <string name="str_download_file">下载档案 :</string>
+   <string name="str_download_estimate">预估时间 :</string>
+   <!--  for about -->
+   <string name="str_about">版本讯息</string>
+   <string name="str_app_version_title">应用程序版本 :</string>
+   <string name="str_frm_ver_title">相机韧体版本 :</string>
+   <string name="alter_BackKEYWarning">应用程序执行中，您确定要离开吗?</string>
+   <string name="Yes">是</string>
+   <string name="No">否</string>
+   <string name="alter_PTPIP_Packet_Error">Cubic相机已离线，是否关闭应用程序?</string>
+   <string name="alter_memory_full">Cubic相机内存已满，请插入记忆卡。</string>
+</resources>
